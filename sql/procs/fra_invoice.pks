@@ -31,7 +31,7 @@ AS
 --         |          |               | p_create_non_merch_invoice
 -- 1.9     |01/06/2015| M.Cackett     | Added function f_country_list_smry
 --         |          |               | Used by new Summary Invoice report.
---         |18/04/2018| L.Holton      | Exciting stuff to test GIT
+--         |18/04/2018| L.Holton      | Exciting stuff to test GIT migration
 
 
 
